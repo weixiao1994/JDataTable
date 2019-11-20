@@ -1,5 +1,7 @@
 package per.wei.jdatatable;
 
 public class JDataTableTest {
-	toy2
+	5
+	toy1
+
 }
